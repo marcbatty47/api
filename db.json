@@ -1,8 +1,19 @@
 {
   "clients": [
     {
+      "id": 1,
       "number": 511,
-      "arr": "$24M"
+      "arr": "$124M"
+    },
+    {
+      "id": 2,
+      "number": 177,
+      "arr": "$47M"
+    },
+    {
+      "id": 3,
+      "number": 306,
+      "arr": "$56M"
     }
   ],
   "profile": {
