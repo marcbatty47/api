@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "clients": [
     {
-      "id": 1,
-      "title": "hello"
+      "number": 511,
+      "arr": "$24M"
     }
   ],
   "profile": {
